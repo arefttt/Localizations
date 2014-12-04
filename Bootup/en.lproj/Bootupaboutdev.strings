@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUS?</key>
+	<string>Are you sure?</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>FACEBOOK</key>
+	<string>Facebook</string>
+	<key>GHUB</key>
+	<string>GitHub</string>
+	<key>MYSN</key>
+	<string>My social networks</string>
+	<key>MYWORKS</key>
+	<string>Other tweaks that i developed</string>
+	<key>P7</key>
+	<string>Persian language for iOS 7</string>
+	<key>P7FOOTER</key>
+	<string>Open persian language for iOS 7 in bigboss repo and check this item!</string>
+	<key>P8</key>
+	<string>Persian language for iOS 8</string>
+	<key>P8FOOTER</key>
+	<string>Open persian language for iOS 8 in bigboss repo and check this item!</string>
+	<key>PK8</key>
+	<string>Persian keyboard for iOS 8</string>
+	<key>PK8FOOTER</key>
+	<string>Open persian keyboard for iOS 8 in bigboss repo and check this item!</string>
+	<key>TWITTER</key>
+	<string>Open Twitter</string>
+	<key>WEBSITE</key>
+	<string>My personal website</string>
+	<key>WEBSITEFOOTER</key>
+	<string>Will be update soon!</string>
+	<key>open</key>
+	<string>Open</string>
+	<key>openFB</key>
+	<string>Open my Facebook profile</string>
+	<key>openGH</key>
+	<string>Open github</string>
+	<key>openTW</key>
+	<string>Open Twitter</string>
+</dict>
+</plist>

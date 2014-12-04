@@ -1,0 +1,15 @@
+"Bootup" = "Bootup";
+"BOOTUP_OPT" = "Bootup options";
+"Cancel" = "Cancel";
+"CR" = "COPYRIGHT 2014 @ arefttt";
+"KILLALL" = "Kill All Background apps";
+"KILLALLFOOTER" = "kill all of background apps and process";
+"OPTIONFOOTER" = "some option like :\n• About developer\n• The Changelog of Bootup\n• And about the Bootup\n";
+"REBOOT" = "Reboot";
+"REBOOTFOOTER" = "reboot Your iDevice";
+"RESPRING" = "Restart SpringBoard";
+"RESPRING_TXT" = "Restart your springboard";
+"SAFEMODE" = "SafeMode";
+"SAFEMODEFOOTER" = "Boot your iDevice to SafeMode";
+"SHUTDOWN" = "Shutdown";
+"SHUTDOWNFOOTER" = "ShutDown your iDevice";
